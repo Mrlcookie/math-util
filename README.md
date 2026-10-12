@@ -11,5 +11,5 @@
 
 #### Connect me via: doannguyentanan01@gmail.com
 
-##### \&#169; 2026 - Mrlcookie
+##### &#169; 2026 - Mrlcookie
 
