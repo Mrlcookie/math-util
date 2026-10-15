@@ -3,7 +3,7 @@ package com.cookie.mathutil.core;
 //CODE CHÍNH, CODE BASE, CODE DÂN DEV PHẢI LÀM
 public class MathUtil {
     public static long getFactorial(int n) {
-            long result = 1;
+            long result = 10; //CỐ TÌNH THỬ GITHUB ACTIONS CÓ PHÁT HIỆN RA CODE LỖI LOGIC, LỖI TÍNH TOÁN HAY KHÔNG
 
             if (n < 0 || n > 20) {
                 throw new IllegalArgumentException("Invalid n. n must be between 0 and 20");
